@@ -1,0 +1,25 @@
+{
+    "name": "Kane Stein",
+    "slug": "kane-stein",
+    "version": "1.0.0",
+    "description": "Qui amet beatae cup",
+    "category": "health",
+    "author": {
+        "name": "Your Name",
+        "email": "your.email@example.com",
+        "url": "https:\/\/yourwebsite.com"
+    },
+    "license": "Commercial",
+    "tags": [],
+    "price": 615,
+    "features": {
+        "responsive": true,
+        "mobile_optimized": true,
+        "seo_ready": true,
+        "customizable": true
+    },
+    "requirements": {
+        "php_version": ">=8.0",
+        "platform_version": ">=1.0.0"
+    }
+}
